@@ -1,0 +1,32 @@
+[
+    {
+"product_name": "Croissants",
+"product_price": "₱150.00",
+"product_description": "Flaky and buttery pastries with light and airy layers. Available plain or filled with chocolate or almond paste.",
+"product_dateAdded": "2024-02-09",
+"product_expirationdate": "2024-02-12"
+},
+{
+"product_name": "Sourdough Bread",
+"product_price": "₱280.00",
+"product_description": "Artisanal fermented bread with a distinctive tangy flavor and chewy texture. Made with a natural sourdough starter.",
+"product_dateAdded": "2024-02-09",
+"product_expirationdate": "2024-05-12"
+
+},
+{
+"product_name": "Cinnamon Rolls",
+"product_price": "₱200.00",
+"product_description": "Sweet, spiral-shaped pastries made from soft and yeasty dough. Filled with a delicious cinnamon and sugar mixture.",
+"product_dateAdded": "2024-02-09",
+"product_expirationdate":"2024-04-24"
+},
+{
+ "product_name": "Macarons",
+ "product_price": "₱1,200.00 (per dozen)",
+ "product_description": "Delicate and colorful French sandwich cookies with a crisp exterior and chewy interior. Available in a variety of flavors.",
+ "product_dateAdded": "2024-02-09",
+ "product_expirationdate": "2024-05-12"
+  
+}
+]
