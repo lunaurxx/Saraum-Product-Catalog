@@ -4,46 +4,31 @@
 "product_price": "₱150.00",
 "product_description": "Flaky and buttery pastries with light and airy layers. Available plain or filled with chocolate or almond paste.",
 "product_dateAdded": "2024-02-09",
-<<<<<<< HEAD
 "product_Expirationdate": "2024-02-12"
 },
-=======
-"product_ExpirationDate": "2024-07-11"
-    },
->>>>>>> origin/main
 {
 "product_name": "Sourdough Bread",
 "product_price": "₱280.00",
 "product_description": "Artisanal fermented bread with a distinctive tangy flavor and chewy texture. Made with a natural sourdough starter.",
 "product_dateAdded": "2024-02-09",
-<<<<<<< HEAD
-"product_Expirationdate": "2024-06-24"
-=======
+"product_Expirationdate": "2024-06-24",
 "product_ExpirationDate": "2024-08-11"
->>>>>>> origin/main
-
 },
 {
 "product_name": "Cinnamon Rolls",
 "product_price": "₱200.00",
 "product_description": "Sweet, spiral-shaped pastries made from soft and yeasty dough. Filled with a delicious cinnamon and sugar mixture.",
 "product_dateAdded": "2024-02-09",
-<<<<<<< HEAD
-"product_Expirationdate":"2024-04-24"
-=======
+"product_Expirationdate":"2024-04-24",
 "product_ExpirationDate": "2024-07-14"
->>>>>>> origin/main
 },
 {
  "product_name": "Macarons",
  "product_price": "₱1,200.00 (per dozen)",
  "product_description": "Delicate and colorful French sandwich cookies with a crisp exterior and chewy interior. Available in a variety of flavors.",
  "product_dateAdded": "2024-02-09",
-<<<<<<< HEAD
- "product_Expirationdate": "2024-05-12"
-=======
+ "product_Expirationdate": "2024-05-12",
  "product_ExpirationDate": "2027-02-11"
->>>>>>> origin/main
   
 },
 {
@@ -51,11 +36,8 @@
     "product_price": "₱800.00",
     "product_description": "Twice-baked Italian cookies known for their crisp and crunchy texture. Flavored with almonds and optional chocolate chips or dried fruits.",
     "product_dateAdded": "2024-02-08",
-<<<<<<< HEAD
-    "product_Expirationdate": "2024-07-26"
-=======
+    "product_Expirationdate": "2024-07-26",
     "product_ExpirationDate": "2027-02-11"
->>>>>>> origin/main
           
     },
     {
