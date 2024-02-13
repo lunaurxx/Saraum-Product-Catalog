@@ -7,7 +7,7 @@ fetch('data.json')
       productItem.innerHTML = `
         <h2>${product.product_name}</h2>
         <p>${product.product_description}</p>
-        <p>Price: $${product.product_price}</p>
+        <p>Price: ${product.product_price}</p>
         <p>Date Added: ${product.product_dateAdded}</p>
         <p>Expiration Date: ${product.product_ExpirationDate}</p>
         <hr>
